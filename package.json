@@ -1,0 +1,23 @@
+{
+  "name": "nodeExpressMongooseLambdaCRUD",
+  "version": "1.0.0",
+  "description": "A CRUD app with nodejs,expressjs, mongoose and lambda",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeExpressMongooseLambdaCRUD"
+  ],
+  "author": "vashisth.hariom7@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.2.18",
+    "serverless-http": "^1.6.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.25.17"
+  }
+}
